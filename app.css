@@ -1,3 +1,33 @@
 body{
     background-color: #f5d5df;
+    font-family: "Munito", sans-serif;
+}
+#mainNavbar{
+    font: size 1.5em;
+    height: 100; 
+}
+#mainNavbar .nav-link{
+    color: white;
+    
+}
+#mainNavbar .nav-link:hover{
+    color: #ea1c2c;
+    
+}
+#mainNavbar .navbar-brand{
+    color: #ea1c2c;    
+}
+#headinggroup span{
+ color:#ea1c2c;
+}
+#headinggroup h1{
+    font-weight: 100;
+    font-size: 4rem;
+}
+@media (max-width: 1200px){
+    #headinggroup h1{
+        font-weight: 100;
+        font-size: 3rem;
+    }
+
 }
