@@ -2,6 +2,19 @@ body{
     background-color: #f5d5df;
     font-family: "Munito", sans-serif;
 }
+.sinopse h2{
+    color: #ea1c2c;
+    font-weight: 100;
+    font-size: 2.15rem;
+}
+.sinopse p{
+    color: #f298b8;
+    font-size: 1.15rem;
+    line-height: 2rem;
+}
+.content{
+    margin-top: 100px;
+}
 #mainNavbar{
     font: size 1.5em;
     height: 100; 
@@ -24,6 +37,7 @@ body{
     font-weight: 100;
     font-size: 4rem;
 }
+
 @media (max-width: 1200px){
     #headinggroup h1{
         font-weight: 100;
